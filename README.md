@@ -6,4 +6,4 @@
 5. *customer*: <b>_id_</b>, first_name, last_name, email, address, creation_datetime,last_update,status</br>
 6. *contact*: <b>_id_</b>, first_name, last_name, address, city,email,phone,subject,comments,creation_datetime,last_update,status</br>
 7. *category*: <b>_id_</b>, title,alias,url,description,image,parent_id,keywords,creation_datetime,last_update,status</br>
-
+8. *introduce_company* : <b>_id_</b>, *details*,creation_datetime,last_update,status</br>
